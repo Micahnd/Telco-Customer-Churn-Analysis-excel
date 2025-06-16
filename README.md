@@ -1,2 +1,5 @@
 # Understanding Telco Customer Churn: Trends, Patterns and  Revenue impact
-! [Dashboard 1- All Customers Overview]
+<img src="https://github.com/Micahnd/customer-churn-dashboard-excel/blob/main/customer-churn-all-customers.png" alt="Dashboard Overview" width="700">
+
+*Fig 1: Customer Churn Overview: All customers*
+<img src="https://github.com/Micahnd/customer-churn-dashboard-excel/blob/main/customer-churn-all-customers.png" alt="Dashboard Overview" width="700">
