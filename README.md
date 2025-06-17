@@ -4,6 +4,8 @@
 Customer churn is a major threat to growth in Telecom companies, not just in lost numbers but in lost revenue and relationships. This project using Microsoft Excel, explores churn patterns, uncovers risk customers and point out behaviors that may be driving customers away.
 The goal is not to predict churn but to understand it clearly enough to guide better decisions.
 
+***[Download the Full Excel file](https://github.com/Micahnd/customer-churn-dashboard-excel/blob/main/Telecom%20Customer%20Churn%20Final%20Work.xlsx)***
+
 ## 📷 Dashboard Snapshots
 
 <img src="https://github.com/Micahnd/customer-churn-dashboard-excel/blob/main/customer-churn-all-customers.png" alt="Dashboard Overview" width="800">
@@ -102,7 +104,7 @@ These findings do not offer final answers, rather **they suggest where teams sho
 - Offer improved digital onboarding or **simplified billing options**.
 
 #### 4. 📦 Bundle Optimization
-- Analyze which combination of services reduce churn without overwhelming the customer.
+- Analyze which combination of service  bundles reduce churn without overwhelming the customer.
 - **Offer customizable bundles** and **encourage customers to take up more added services**.
 
 #### 5. 🧾 Subscription Strategy
@@ -122,8 +124,15 @@ These findings do not offer final answers, rather **they suggest where teams sho
 - **Sheets**: DataSheet, ChartSheet, Backend.
 - **Data source**: [Kaggle](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset)
 
+## 📘 References
+- [IBM Telco Customer Churn Dataset](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)  
+  This open-source dataset was used as the foundation for all analysis in this project.
+- Project concept inspired by the IBM Data Science Capstone course on Coursera.  
+  While the analysis and dashboard design are original, the dataset is commonly used in churn analysis practice.
+- Excel techniques (pivot tables, charts, KPI design, slicers) were applied based on self-directed learning and Udemy training resources.
+
 ## 📚 Author
-#### Micah Ndubuisi Ezirim
+### Micah Ndubuisi Ezirim
 Data Analyst | Lagos, Nigeria.
 
 [LinkedIn](https://www.linkedin.com/in/ezirim-micah-268955241)
