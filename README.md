@@ -21,18 +21,12 @@ The goal is not to predict churn but to understand it clearly enough to guide be
 ## 📌 Project Overview
 This project presents a **data-driven exploration of customer churn** for a fictional telecom company. Built entirely in **Microsoft Excel**, the dashboard is a practical tool to **understand customer behavior**, highlight **revenue risks** and guide **further business investigation**.
 
-## 📘 Definitions and Key Metrics
+## 📘 Definitions
 - **Senior citizens**: These are customers above the age of 49.
 - **Tenure**: Refers to how long the customer has patronized the business.
 - **Living Situation**: Refers to customer's household structure.
 - **Payment Method**: Refers to the way customers pay for their subscriptions.
 - **Subsription Type**: Refers to customers billing commitment.
-- **Revenue Lost**: Monthly charges x Number of Churned Customers
-- **Average Monthly Cost**: Total monthly charges ÷ Number of customers per group
-- **Average Revenue Lost**: Total Revenue lost ÷ Number of Churned customers.
-- **Churn Rate By Tenure**: Churned customer per tenure ÷ total customers per tenure x 100
-- **Churn Rate By Payment method**: Churned customers per method ÷ Total per method x 100
-- **Churn Rate By Living Situation**: 
 
 ## 🎯 Business Purpose
 Customer churn is one of the most pressing issues for subscription-based services like telecoms. It directly impacts revenue and often reflects deeper service or experience issues.
