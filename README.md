@@ -1,7 +1,7 @@
 # Understanding Telco Customer Churn: Trends, Patterns and  Revenue impact
 
 ## 📊 Introduction
-Customer churn is a major threat to growth in Telecom companies, not just in lost numbers but in lost revenue and relationships. This project using Microsoft Excel, explores churn patterns, uncovers risk customers and point out behaviors that may be driving customers away.
+Customer churn is a major threat to growth in Telecom companies, not just in lost numbers but in lost revenue and relationships. This project using Microsoft Excel, analyses churn patterns, uncovers risk customers and points out behaviors that may be driving customers away.
 The goal is not to predict churn but to understand it clearly enough to guide better decisions.
 
 ***[Download the Full Excel file](https://github.com/Micahnd/Telco-Customer-Churn-Analysis-excel/raw/refs/heads/main/Telecom%20Customer%20Churn%20Final%20Work.xlsx)***
@@ -21,7 +21,7 @@ The goal is not to predict churn but to understand it clearly enough to guide be
 *Fig 3: Customer Churn Overview: Non-Senior citizens*
 
 ## 📌 Project Overview
-This project presents a **data-driven exploration of customer churn** for a fictional telecom company. Built entirely in **Microsoft Excel**, the dashboard is a practical tool to **understand customer behavior**, highlight **revenue risks** and guide **further business investigation**.
+This project presents a **data-driven exploration of customer churn** for a fictional telecom company in Nigeria. Built entirely on **Microsoft Excel**, the dashboard is a  tool to **understand customer behavior**, highlight **revenue risks** and guide **further business investigations**.
 
 ## 📘 Definitions
 - **Senior citizens**: These are customers above the age of 49.
