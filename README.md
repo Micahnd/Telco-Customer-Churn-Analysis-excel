@@ -4,7 +4,7 @@
 Customer churn is a major threat to growth in Telecom companies, not just in lost numbers but in lost revenue and relationships. This project using Microsoft Excel, explores churn patterns, uncovers risk customers and point out behaviors that may be driving customers away.
 The goal is not to predict churn but to understand it clearly enough to guide better decisions.
 
-***[Download the Full Excel file](https://github.com/Micahnd/customer-churn-dashboard-excel/blob/main/Telecom%20Customer%20Churn%20Final%20Work.xlsx)***
+***[Download the Full Excel file](https://github.com/Micahnd/Telco-Customer-Churn-Analysis-excel/raw/refs/heads/main/Telecom%20Customer%20Churn%20Final%20Work.xlsx)***
 
 ## 📷 Dashboard Snapshots
 
